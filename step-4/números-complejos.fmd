@@ -1,11 +1,13 @@
 /h2 Números complejos
 ---/n
 
-/> Este proyecto de investigación ha sido redactado con FastMarkDown[(1)](#bibliografía), el lenguaje de programación perfecto para hacer y trabajos escritos. Para estandarizar la simbología LaTeX del trabajo, se ha usado los estándares matemáticos anglosajones, intercambiando las comas por los puntos. Puedes acceder a el código fuente del trabajo en su repositorio oficial[(2)](#bibliografía).
+/> Hecho por Adrián Garabatea, Alejandro Barriga, Javier Bravo, Andy Liu, Diego Silva y Alejandro Vaz. 1ºBTO-A y 1ºBTO-B./n
+
+/> Este documento ha sido redactado con FastMarkDown[(1)](https://github.com/alejandro-vaz/FastMarkDown), el lenguaje de programación perfecto para hacer trabajos escritos. Para estandarizar la simbología LaTeX del trabajo, se ha usado los estándares matemáticos anglosajones, intercambiando las comas por los puntos. Puedes acceder a el código fuente del trabajo en su repositorio oficial[(2)](https://github.com/alejandro-vaz/Numeros-complejos)./n
 
 /h3 Conjuntos numéricos/n
 Para entender qué es un 'número complejo,' revisaremos la clasificación numérica. Los números los clasificamos en ·conjuntos numéricos,· que son grupos de números que tienen alguna característica en común./n
-El conjunto numérico más pequeño es el de los '·números naturales·' (/_\mathbb{N}/_), estos números son los que representan una cantidad entera y positiva. La humanidad empezó a usar estos números hace milenios, incluso algunos animales como los ·gorilas· pueden operar mentalmente con ellos./n
+El conjunto numérico más pequeño es el de los '·números naturales·' (/_\mathbb{N}/_), estos números son los que representan una cantidad entera y positiva. La humanidad empezó a usar estos números hace milenios, incluso algunos mamíferos inteligentes como los ·gorilas· pueden operar mentalmente con ellos./n
 Si continuamos con la clasificación nos encontramos a los '·números enteros·' (/_\mathbb{Z}/_), que incluyen el cero y los números negativos, surgieron en la antiguedad debido a la gran utilidad que tenía representar cantidades negativas o nulas (principalmente para las deudas en la economía)./n 
 /img /br Conjuntos numéricos. /br Figura 1./n
 Sin embargo, esos números no bastaban para representar todas las cantidades: como resultado de algunas divisiones obteníamos números que no entraban dentro de estas clasificación, números que estaban ·entre· los números enteros, a los que se les llamó 'fraccionarios.' Al conjunto que incluye los enteros y los fraccionarios se le llamó '·números racionales·' (/_\mathbb{Q}/_)./n
